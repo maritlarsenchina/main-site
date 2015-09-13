@@ -1,0 +1,21 @@
+# Site settings
+title: Code Name Elisabeth
+email:
+url: http://maritlarsen.ml
+description: "The Least Popular Marit Larsen Fan-site Based in China"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: Code Name Elisabeth
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/MaritLarsenChineseFans
+# Build settings
+markdown: kramdown
+permalink: pretty
